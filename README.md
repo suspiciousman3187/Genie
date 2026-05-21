@@ -6,10 +6,8 @@ Genie reads each floor's objective from chat and then automatically clears or as
 
 ---
 
-# Is It Safe?
+## Is It Safe?
 Probably not.
-
----
 
 ## Install
 
